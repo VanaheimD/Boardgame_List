@@ -39,14 +39,23 @@ Tip：轻策桌游直接报名，不用写具体玩什么，玩什么可以当�
 10. 无间风云 https://www.bilibili.com/video/BV1m54y1N7Se/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
 11. 骆驼大赛 Camel Up  https://www.bilibili.com/video/BV1vt411L7vg/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
 12. 疯狂诡宅Mansions of Madness https://www.bilibili.com/video/BV1SW411h7PB/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
- 
+13. 行动代号 https://www.bilibili.com/video/BV19P4y1b7Xq/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+14. 画物语 https://www.bilibili.com/video/BV1u441137pn/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+15. 骇浪求生 https://www.bilibili.com/video/BV1ai4y1F7cV/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410 
+16. sushi go https://www.bilibili.com/video/BV1Vx411d7tu/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+17. 屠龙远征
+18. 寂静迷航
+19. 国家公园
+20. 疯狂建筑工
+21. 奶酪大盗
+22. 谍报风云
+23. 魔城马车
  
 ## 中度桌游列表
 1. 三国杀国战 https://zhuanlan.zhihu.com/p/83804811
 2. 卡坦岛https://www.bilibili.com/video/BV1Rb411679e
-3. 马尼拉 https://www.bilibili.com/video/BV1tt411k7uP
-4. 璀璨宝石 splendor https://www.bilibili.com/video/BV1pD4y1o7ta
-5. 勃艮地城堡 https://www.bilibili.com/video/BV1Ry4y1Y7mE/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+3. 璀璨宝石 splendor https://www.bilibili.com/video/BV1pD4y1o7ta
+4. 勃艮地城堡 https://www.bilibili.com/video/BV1Ry4y1Y7mE/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
  
 
 ## 重策桌游列表： 
