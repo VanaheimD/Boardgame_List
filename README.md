@@ -1,6 +1,9 @@
 # Boardgame_List
 报名表链接，时间统一为周六下午13：00
-(你们也可以随时用这个报名表约着玩游戏，狼人杀阿瓦隆血染都在文档里报名，这里就不写了
+Tip：轻策桌游直接报名，不用写具体玩什么，玩什么可以当场投票决定，人多开n桌
+     狼人杀阿瓦隆血染在报名表，人齐就开
+     中策和重策游戏最好事先了解一点规则，如果有第一次玩也会有人讲规则，但是事先了解一点最后
+     （中策和重策需要具体报名哪个桌游
 
 
 ## 桌游分类
@@ -25,18 +28,17 @@
 
 ## 轻策桌游列表: 
 1. 三国杀 https://gltjk.com/sanguosha/rules/info/index.html
-2. 富饶之城 citadels https://www.bilibili.com/video/BV1ub411t7gE
+2. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
 3. 德国心脏病 (哈利果铃） https://www.ultraboardgames.com/halli-galli/game-rules.php
 4. 矮人掘金 https://www.bilibili.com/video/BV14p4y1D7mC
 5. 犯罪现场 https://www.bilibili.com/video/BV1zS4y1o7tB/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
 6. 爆炸猫 https://www.bilibili.com/video/BV1db411N7aE
-7. 险恶迷航 https://www.bilibili.com/video/BV1M24y1K75W/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+7. 险恶疑航 https://www.bilibili.com/video/BV1M24y1K75W/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
 8. 黑死城 https://www.bilibili.com/video/BV1Hq4y197dU/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
 9. 海盗岛 https://www.bilibili.com/video/BV1Hq4y197dU/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
 10. 无间风云 https://www.bilibili.com/video/BV1m54y1N7Se/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
-11. 斋浦尔 http://www.yihubg.com/rule-details/8a0dc61b-52d2-4623-957d-a36685119a0e
-12. 德国蟑螂 https://blog.sina.com.cn/s/blog_7f2a03be0100tvmx.html
-13. 疯狂诡宅Mansions of Madness https://www.bilibili.com/video/BV1SW411h7PB/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+11. 骆驼大赛 Camel Up  https://www.bilibili.com/video/BV1vt411L7vg/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
+12. 疯狂诡宅Mansions of Madness https://www.bilibili.com/video/BV1SW411h7PB/?share_source=copy_web&vd_source=e4d73b44a37e4c2b70fc36118cf43410
  
  
 ## 中度桌游列表
